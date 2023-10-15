@@ -1,3 +1,3 @@
-module super-coroutine
+module fucker
 
 go 1.19
